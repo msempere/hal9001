@@ -2,7 +2,8 @@
     "name": "hal9001",
         "version": "1.0.0",
         "engines": {
-            "node": "4.1.1"
+            "node": "5.1.0",
+            "npm": "3.3.12" 
         },
         "description": "",
         "main": "lib/hal9001.js",
