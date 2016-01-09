@@ -12,6 +12,7 @@
         "author": "",
         "license": "ISC",
         "dependencies": {
+            "bufferutil": "^1.2.x",
             "aws-sdk": "^2.2.28",
             "slackbots": "^0.5.0",
             "textspark": "^0.1.0"
